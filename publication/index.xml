@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Hirohane Takagi</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>TBA</title>
+      <link>http://localhost:1313/publication/iui2025/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/iui2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>機械学習と波形補正を用いたスマートメーター計測値からPV出力と実需要への分離推定</title>
+      <link>http://localhost:1313/publication/ieej2025/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ieej2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>大規模言語モデルにおいて数値属性間で共有されるスケーリングベクトルの解析とその応用</title>
+      <link>http://localhost:1313/publication/anlp2025/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/anlp2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>大規模言語モデルを用いたロールプレイエージェントの 効率的な開発と動作検証のためのフレームワーク</title>
+      <link>http://localhost:1313/publication/interaction2025/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/interaction2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
